@@ -1,0 +1,63 @@
+@font-face {
+  font-family: Yekan;
+  src: url('Yekan.eot');
+  src: url('Yekan.eot?#iefix') format('Yekan-opentype'),
+       url('Yekan.woff') format('woff'),
+       url('Yekan.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Tanha;
+  src: url('Tanha.eot');
+  src: url('Tanha.eot?#iefix') format('Tanha-opentype'),
+       url('Tanha.woff') format('woff'),
+       url('Tanha.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Sahel;
+  src: url('Sahel.eot');
+  src: url('Sahel.eot?#iefix') format('Sahel-opentype'),
+       url('Sahel.woff') format('woff'),
+       url('Sahel.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Vazir;
+  src: url('Vazir.eot');
+  src: url('Vazir.eot?#iefix') format('Vazir-opentype'),
+       url('Vazir.woff') format('woff'),
+       url('Vazir.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Parastoo;
+  src: url('Parastoo.eot');
+  src: url('Parastoo.eot?#iefix') format('Parastoo-opentype'),
+       url('Parastoo.woff') format('woff'),
+       url('Parastoo.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Samim;
+  src: url('Samim.eot');
+  src: url('Samim.eot?#iefix') format('Samim-opentype'),
+       url('Samim.woff') format('woff'),
+       url('Samim.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Shabnam;
+  src: url('Shabnam.eot');
+  src: url('Shabnam.eot?#iefix') format('Shabnam-opentype'),
+       url('Shabnam.woff') format('woff'),
+       url('Shabnam.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
